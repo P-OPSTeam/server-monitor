@@ -49,6 +49,8 @@ Open server_monitor.html in your browser.
 ![](server_monitor_screenshot_1.jpg)
 ![](server_monitor_screenshot_2.jpg)
 
+# Where can I change the frequency of reading/broadcasting the readings?
+You will find this in the server_push.py
 
 # TODO 
 The easiest way to run the server process in the background is as follows
