@@ -1,5 +1,6 @@
 # Server Monitor Dashboard using Pusher API
 A simple dashboard to monitor your server's CPU, Memory and Disk Usage (Auto-refreshed every 15 seconds)
+![](server_monitor_screenshot_1.jpg)
 
 # How to install
 Login to your Ubuntu VPS server
