@@ -12,7 +12,7 @@ A simple dashboard to monitor your server's CPU, Memory and Disk Usage (Auto-ref
 2) You can view the results using a simple HTML file on your desktop/laptop/mobile phone.
 
 # Pre-requisite
-Sign-up for an account on https://pusher.com/ . Please make a note of your APP_ID, KEY, SECRET, CLUSTER values from the pusher dashboard. Free version allows you to send up to 200K messages a month. This is enough for monitoring 1 server every 15 seconds.
+Sign-up for an account on https://pusher.com/ . Please make a note of your APP_ID, KEY, SECRET, CLUSTER values from the pusher dashboard. Free version allows you to send up to 200K messages a day. This is enough for monitoring 1 server every 15 seconds.
 
 
 # How to install
